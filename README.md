@@ -51,6 +51,10 @@ NAT Test
 Command:
 curl http://example.com
 
+Network ACL
+A Network ACL was configured to control traffic at the subnet level.  
+It allows inbound and outbound traffic required for communication between instances and internet access.
+
 Output:
 Example Domain
 This confirms that the private EC2 can access the internet through the NAT Gateway.
