@@ -57,6 +57,7 @@ This confirms that the private EC2 can access the internet through the NAT Gatew
 
 Screenshots
 The following screenshots are included:
+AWS DAIGRAM
 VPC setup
 Subnets
 Route tables
